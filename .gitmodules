@@ -1,0 +1,3 @@
+[submodule "Encashments"]
+	path = Encashments
+	url = git@github.com:Clientele/Encashments.git
